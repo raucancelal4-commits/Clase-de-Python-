@@ -1,0 +1,12 @@
+# Carpetas basura que genera Python automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de configuración interna de tu editor (VS Code)
+.vscode/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
